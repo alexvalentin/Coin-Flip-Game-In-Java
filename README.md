@@ -6,7 +6,7 @@ A sample Coin Game **Android** application created with **Java** using **Android
 Please ⭐️ this repository!
 
 ### Screenshots
-Start the Rating Star application | Give a 4 rating star
+Start the game | Give a 4 rating star
 :------------------:|:------------------------:
 ![image](https://user-images.githubusercontent.com/67371383/196048919-0e103eea-0f3f-43bc-a182-50213e91538e.png)| ![image](https://user-images.githubusercontent.com/67371383/196048934-5d8966fc-6e9c-4211-8540-5034352e9b09.png) |!
 
