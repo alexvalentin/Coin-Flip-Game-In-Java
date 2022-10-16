@@ -12,8 +12,5 @@ Start the game | Head point
 
 Tail point| Counter of the points
 :------------------:|:------------------------:
-!![image](https://user-images.githubusercontent.com/67371383/196049181-ab1e56fd-a010-46e1-a6f0-80f592dc8631.png) |!
-![image](https://user-images.githubusercontent.com/67371383/196049272-45404dc5-d6b1-4218-b4b3-da8d3aa3dca0.png) |!
-
-
+!![image](https://user-images.githubusercontent.com/67371383/196049181-ab1e56fd-a010-46e1-a6f0-80f592dc8631.png) |! ![image](https://user-images.githubusercontent.com/67371383/196049272-45404dc5-d6b1-4218-b4b3-da8d3aa3dca0.png) |!
 
